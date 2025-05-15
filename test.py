@@ -2,7 +2,7 @@ import flet
 from flet import Page, Text
 
 def main(page: Page):
-    page.title = "Mi app"
+    page.title = "Iraskasle App"
     page.add(Text("Hola Flet!"))
 
 flet.app(target=main)
