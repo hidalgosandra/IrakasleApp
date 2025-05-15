@@ -1,8 +1,8 @@
 # irakaslea.py
 
 class Irakaslea:
-    def __init__(self, izena):
-        self.izena = izena
+    def __init__(self, izen_abizena):
+        self.izen_abizena = izen_abizena
         self.ordutegia = []  # Ordu okupatuak
 
     def gehitu_ordua(self, ordua):
