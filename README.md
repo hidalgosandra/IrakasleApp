@@ -35,4 +35,8 @@ Terminalean honako komandoa exekutatu:
 pip install -r requirements.txt
 ```
 
+
+### Goikoa ez badabil (Instalazio pausuak)
+1. Exekutatu Script.bat (Beharrezko dependentziak eta requirements.txt instalatzen du)
+
 Horrela, Flet eta beste behar diren liburutegi guztiak automatikoki instalatuko dira, eta aplikazioa behar bezala exekutatu ahal izango da.
